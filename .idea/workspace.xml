@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11e7633c-42e5-49fe-a6c1-676357367224" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1gGqw2HvUN8ptGInfWGCp6gcmlV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Projets\Evalbook\offline-page\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11e7633c-42e5-49fe-a6c1-676357367224" name="Default Changelist" comment="" />
+      <created>1597751512100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597751512100</updated>
+      <workItem from="1597751513227" duration="917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="30" key="CommitChangelistDialog2" timestamp="1597752477250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="522" y="30" key="CommitChangelistDialog2/-1366.156.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1597752477250" />
+    <state x="687" y="203" key="FileChooserDialogImpl" timestamp="1597752381428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="203" key="FileChooserDialogImpl/-1366.156.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1597752381428" />
+    <state x="452" y="192" key="Vcs.Push.Dialog.v2" timestamp="1597752494415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="192" key="Vcs.Push.Dialog.v2/-1366.156.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1597752494415" />
+    <state x="539" y="5" key="search.everywhere.popup" timestamp="1597751529940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" key="search.everywhere.popup/-1366.156.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1597751529940" />
+  </component>
+</project>
